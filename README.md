@@ -101,6 +101,11 @@ solar-cool-storage/
 
 ---
 
+<img width="2184" height="1638" alt="image" src="https://github.com/user-attachments/assets/02cce2de-960b-4684-940b-8794bbc6fa0f" />
+
+
+---
+
 ## Author
 **[RevoFlow]**
 STEAM 2025 — Solar Cool Storage  
